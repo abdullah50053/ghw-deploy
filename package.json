@@ -39,7 +39,7 @@
     },
     "dependencies": {
         "bootstrap": "5.2.3",
-        "startbootstrap-freelancer": "^7.0.7"
+        "startbootstrap-freelancer": "file:"
     },
     "devDependencies": {
         "autoprefixer": "10.4.14",
